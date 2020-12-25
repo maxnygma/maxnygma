@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔥 My last project was [Digital Peter Competition](https://ai-journey.ru/en/contest/task01) for an online hackathon.
+🔥 My last project was [Digital Peter Competition](https://ai-journey.ru/en/contest/task01)
 
 
 👨‍💻 I'm studying C++ for competitive programming and self-development purposes. Also I'm studying statistics and linear algebra for improving my ML/DL skills.  
