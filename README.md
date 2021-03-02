@@ -6,7 +6,7 @@
 👨‍💻 I'm currently developing an MLaaS platform for convenient model training and deployment. I'm studying statistics and linear algebra for improving my ML/DL skills.  
 
 
-▶️ I'm currently participating in [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) Kaggle Competition.  
+▶️ I'm currently participating in [Indoor Location & Navigation Challenge by Microsoft Research](https://www.kaggle.com/c/indoor-location-navigation) Kaggle Competition.  
 
 
 🚗 I'm interested in self-driving cars, SLAM, stereo vision and 3D-mapping.  
