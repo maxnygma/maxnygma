@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My personal blog - https://xzcodes.github.io/
+
 🔥 My last project was [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification)
 
 
