@@ -2,7 +2,7 @@
 
 My personal blog - https://xzcodes.github.io/
 
-🔥 My last project was [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification).
+🔥 My last project was [Bristol Meyers Squibb - Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation).
 
 
 👨‍💻 I'm currently developing an MLOps platform for convenient model training and deployment. 
