@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My personal blog - https://xzcodes.github.io/
+My resume can be found [here](https://cutt.ly/xQNoKA5)
 
 🔥 My last project was [Bristol Meyers Squibb - Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation).
 
