@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dwdkills}/competition)
+
 My personal blog - https://xzcodes.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/xQNoKA5)
