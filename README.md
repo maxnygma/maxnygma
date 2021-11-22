@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{dwdkills}/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussionn)
 
 My personal blog - https://xzcodes.github.io/
 <br>
