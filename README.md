@@ -5,7 +5,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussion)
 
-My personal blog - https://xzcodes.github.io/
+My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/xQNoKA5)
 
