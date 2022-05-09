@@ -9,15 +9,15 @@ My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/xQNoKA5)
 
-🔥 My last project was [Bristol Meyers Squibb - Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation).
+🔥 My last project was [End2End HTR Pipeline](https://github.com/RadmirZ/End2End-HTR-Pipeline).
 
 
-👨‍💻 I'm currently developing a unified platform that connects restaurants, cafes and their customers. 
+👨‍💻 Apart from ML, I learn to invest, protect networks from data breaches and explore field of deeptech startups. 
 
 
-▶️ I'm currently participating in no Kaggle Competitions ;).  
+▶️ I'm currently participating in [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022).  
 
 
-🚗 I'm interested in self-driving cars, SLAM, stereo vision and 3D-mapping.  
+👁️ I'm interested in 3D computer vision, reconstruction and 3D point cloud matching.  
 
 
