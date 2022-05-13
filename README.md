@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/dataset)
+<!-- ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussion)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussion) -->
 
 My personal blog - https://maxnygma.github.io/
 <br>
