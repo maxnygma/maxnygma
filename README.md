@@ -9,7 +9,7 @@ My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/xQNoKA5)
 
-🔥 My last project was [Image Matching Challenge 2022]([https://github.com/RadmirZ/End2End-HTR-Pipeline](https://www.kaggle.com/competitions/image-matching-challenge-2022/discussion/328803#1809825)).
+🔥 My last project was [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/discussion/328803#1809825).
 
 
 👨‍💻 Apart from ML, I learn to invest, explore field of deeptech startups and do math. 
