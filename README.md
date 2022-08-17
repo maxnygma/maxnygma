@@ -5,6 +5,8 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussion) -->
 
+I'm Max. A man who loves ML and a freshman at National University of Science and Technology MISiS.
+<br>
 My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/xQNoKA5)
@@ -18,6 +20,6 @@ My resume can be found [here](https://cutt.ly/xQNoKA5)
 ▶️ I'm currently not participating in any competitions :) 
 
 
-👁️ I'm interested in 3D computer vision, reconstruction and 3D point cloud matching.  
+👁️ I'm interested in general and 3D computer vision, medical imaging.  
 
 
