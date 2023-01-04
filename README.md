@@ -9,15 +9,12 @@ I'm Max. A man who loves ML and a first-year student at National University of S
 <br>
 My personal blog - https://maxnygma.github.io/
 <br>
-My resume can be found [here](https://cutt.ly/xQNoKA5)
+My resume can be found [here](https://drive.google.com/file/d/1E3iolK8VKuo2fwuH2gIzEwFiQuIFerbT/view?usp=sharing)
 
-🔥 My last project was [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/discussion/328803#1809825).
+🔥 My last project was [Image Retrieval on Stanford Online Products](https://github.com/maxnygma/image-retrieval-tinkoff-ai).
 
 
 👨‍💻 Apart from ML, I learn to invest, explore field of deeptech startups and do math. 
-
-
-▶️ I'm currently not participating in any competitions :) 
 
 
 👁️ I'm interested in general and 3D computer vision, medical imaging.  
