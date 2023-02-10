@@ -11,12 +11,11 @@ My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://drive.google.com/file/d/1E3iolK8VKuo2fwuH2gIzEwFiQuIFerbT/view?usp=sharing)
 
-🔥 My last project was [Image Retrieval on Stanford Online Products](https://github.com/maxnygma/image-retrieval-tinkoff-ai).
+🔥 I'm interested in computer vision, uncertainty estimation, Bayesian methods for deep learning and beyond
 
+👁️ My last project was [Image Retrieval on Stanford Online Products](https://github.com/maxnygma/image-retrieval-tinkoff-ai).
 
 👨‍💻 Apart from ML, I learn to invest, explore field of deeptech startups and do math. 
-
-
-👁️ I'm interested in general and 3D computer vision, medical imaging.  
+  
 
 
