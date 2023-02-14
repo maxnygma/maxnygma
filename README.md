@@ -9,7 +9,7 @@ I'm Max. A man who loves ML and a first-year student at National University of S
 <br>
 My personal blog - https://maxnygma.github.io/
 <br>
-My resume can be found [here](https://drive.google.com/file/d/1E3iolK8VKuo2fwuH2gIzEwFiQuIFerbT/view?usp=sharing)
+My resume can be found [here](https://cutt.ly/y3YvEbv)
 
 🔥 I'm interested in computer vision, uncertainty estimation, Bayesian methods for deep learning and beyond
 
