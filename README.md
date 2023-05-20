@@ -11,11 +11,11 @@ My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
-🔥 I'm interested in a wide range of computer vision tasks such as metric learning, OOD-detection and dense recognition 
+🔥 I'm interested in a wide range of computer vision tasks such as domain adaptation, OOD-detection and dense recognition
 
 👁️ My last project was [NeuralXRD (ICLR 2023 ML4Materials)](https://github.com/maxnygma/NeuralXRD)
 
-👨‍💻 Apart from machine learning, I do workout, explore the field of deeptech startups and practice math
+👨‍💻 Apart from machine learning, I do workout, explore deeptech startups and cross-field applied research 
   
 
 
