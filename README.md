@@ -11,7 +11,7 @@ My personal blog - https://maxnygma.github.io/
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
-🔥 I'm interested in a wide range of deep learning tasks such as probabilistic methods, OOD-detection and graph theory
+🔥 I'm interested in a wide range of deep learning tasks such as probabilistic methods, OOD detection and graph theory
 
 👁️ My last project was [Catching Image Retrieval Generalization](https://arxiv.org/pdf/2306.13357.pdf) (preprint)
 
