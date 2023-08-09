@@ -7,8 +7,6 @@
 
 I'm Max. Machine learning research scientist and a second-year student at National University of Science and Technology MISIS
 <br>
-My personal blog - https://maxnygma.github.io/
-<br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
 🔥 I'm interested in probabilistic methods, OOD detection / generalization and graph theory
