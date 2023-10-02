@@ -11,7 +11,7 @@ My resume can be found [here](https://cutt.ly/y3YvEbv)
 
 🔥 I'm interested in probabilistic methods, OOD detection / generalization and graph theory
 
-👁️ My last project was [Catching Image Retrieval Generalization](https://arxiv.org/pdf/2306.13357.pdf) (preprint)
+👁️ My last project was [Diversifying Deep Ensembles: A Saliency Map Approach for Enhanced OOD Detection, Calibration and Accuracy](https://arxiv.org/pdf/2305.11616.pdf) (preprint)
 
 👨‍💻 Apart from machine learning, I do workout, explore deeptech startups and cross-field applied research 
   
