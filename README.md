@@ -9,7 +9,7 @@ I'm Max. Machine learning research scientist and a second-year student at Nation
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
-🔥 I'm interested in AI4Science, self-supervised learning and multi-modal LLMs
+🔥 I'm interested in AI4Science, generative modeling and self-supervised learning
 
 👁️ My last project was [Unveiling Empirical Pathologies of Laplace Approximation for Uncertainty Estimation](https://arxiv.org/pdf/2312.10464.pdf) (AAAI 2024 Deployable AI Workshop)
 
