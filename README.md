@@ -9,7 +9,7 @@ I'm Max. Research scientist at [AIRI](https://airi.net/?force=en) and a third-ye
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
-🔥 I'm interested in AI4Science, particularly in **molecular and material representations** with applications to **clean energy** and **computational pharmacology**
+🔥 I'm interested in **AI4Science**, particularly in **molecular and material representations** with applications to **clean energy** and **computational pharmacology**
 
 👁️ My last project was [Unveiling Empirical Pathologies of Laplace Approximation for Uncertainty Estimation](https://arxiv.org/pdf/2312.10464.pdf) (AAAI 2024 Deployable AI Workshop)
 
