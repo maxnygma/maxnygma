@@ -11,7 +11,8 @@ My resume can be found [here](https://cutt.ly/y3YvEbv)
 
 🔥 I'm interested in **AI4Science**, particularly in how neural networks can be applied to biological and physical systems to facilitate new breakthroughs in **drug design** and **quantum chemistry**   
 
-👁️ My last project was [Identity Curvature Laplace Approximation](https://arxiv.org/pdf/2312.10464.pdf) (WACV 2025)
+👁️ My last project was [Electrostatics from Laplacian Eigenbasis for Neural
+Network Interatomic Potentials](https://arxiv.org/pdf/2505.14606) 
 
 👨‍💻 Apart from machine learning, I do workout, explore deeptech startups and travel occasionally
 
