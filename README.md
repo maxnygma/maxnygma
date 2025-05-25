@@ -14,7 +14,7 @@ My resume can be found [here](https://cutt.ly/y3YvEbv)
 👁️ My last project was [Electrostatics from Laplacian Eigenbasis for Neural
 Network Interatomic Potentials](https://arxiv.org/pdf/2505.14606) 
 
-👨‍💻 Apart from machine learning, I do workout, explore deeptech startups and travel occasionally
+👨‍💻 Apart from machine learning, I workout, explore deeptech startups and travel occasionally
 
   
 
