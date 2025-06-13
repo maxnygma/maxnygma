@@ -5,7 +5,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dwdkills/discussion) -->
 
-I'm Max. Research scientist at AIRI ([dunno lab](https://dunnolab.ai/)) and a third-year student at National University of Science and Technology MISIS
+I'm Max. Research scientist at AIRI ([dunno lab](https://dunnolab.ai/)) and a third-year undergraduate student at National University of Science and Technology MISIS
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
