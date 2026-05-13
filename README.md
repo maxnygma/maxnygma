@@ -9,7 +9,10 @@ I'm Max. Research scientist [dunno lab](https://dunnolab.ai/) and a fourth-year 
 <br>
 My resume can be found [here](https://cutt.ly/y3YvEbv)
 
-🔥 I'm interested in **AI4Science**, particularly in how neural networks can be applied to biological and physical systems to facilitate new breakthroughs in **drug design** and **quantum chemistry**   
+🔥 I'm interested in **AI4Science**, particularly in 
+- Generative modeling of biomolecular interactions including flexible all-atom docking, co-folding and binder design
+- Reward fine-tuning of generative models and test-time steering. Especially, the design of methods and rewards for stable molecular dynamics and biomolecular modeling 
+- More efficient architectures for molecular systems
 
 👁️ My last project was [Electrostatics from Laplacian Eigenbasis for Neural
 Network Interatomic Potentials](https://arxiv.org/pdf/2505.14606) 
